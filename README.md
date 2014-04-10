@@ -3,9 +3,13 @@ fp-courses-material
 
 ===================
 
-##Functional programming cources material ([code](https://github.com/immediatus/fp-courses-material/tree/master/src/main/scala/com/epam/fpp), [example (tetris)](https://github.com/immediatus/fp-courses-material/tree/master/src/main/scala/com/epam), [doc](https://docs.google.com/document/d/1lrveT7nNJZFmhN3h3eBdK71KTquFabyxAdk0xY2nigI/edit?usp=sharing))
+###Functional programming cources material ([code](https://github.com/immediatus/fp-courses-material/tree/master/src/main/scala/com/epam/fpp), [example (tetris)](https://github.com/immediatus/fp-courses-material/tree/master/src/main/scala/com/epam), [doc](https://docs.google.com/document/d/1lrveT7nNJZFmhN3h3eBdK71KTquFabyxAdk0xY2nigI/edit?usp=sharing))
+
 
 ###Module 1. Polymorphism
+
+===================
+
 ####High-Kind Types & Type Constructors
 ####Polymorphism
 ####Parametric polymorphism (Universal)
@@ -14,7 +18,13 @@ fp-courses-material
 ####Family polymorphism
 ####Any, AnyRef, Null, Nothing
 
+
+===================
+
 ###Module 2. Functional design primitives
+
+===================
+
 ####Function Composition
 ####Type Class: Compose
 ####Type Class: Category
@@ -31,6 +41,12 @@ fp-courses-material
 ####Special Functions
 ####Kleisli Category
 
+
+===================
+
 ###Module 3. Functional design 
+
+===================
+
 ####Function Definition
 ####ANEX:
