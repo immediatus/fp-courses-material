@@ -1,0 +1,1 @@
+java -Xms1024M -Xmx1024M -Xms1024 -jar sbt-launch.jar %*
